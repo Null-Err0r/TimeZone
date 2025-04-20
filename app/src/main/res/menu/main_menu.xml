@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_timezone"
+        android:title=""
+        app:actionLayout="@layout/menu_timezone_edittext"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_apply"
+        android:title="اعمال"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_reboot"
+        android:title="ری‌استارت"
+        android:icon="@android:drawable/ic_menu_rotate"
+        app:showAsAction="always" />
+
+
+
+</menu>

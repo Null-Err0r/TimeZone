@@ -1,0 +1,17 @@
+<!-- res/drawable/spinner_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- پس‌زمینه -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#00000000" />
+            <stroke android:width="1dp" android:color="#00000000"/>
+            <corners android:radius="6dp"/>
+        </shape>
+    </item>
+
+    <!-- فلش بزرگ‌تر -->
+    <item
+        android:drawable="@drawable/spinner_arrow_large"
+        android:gravity="end|center_vertical"
+        android:right="8dp" />
+</layer-list>
