@@ -214,3 +214,6 @@ Manual Reboot:
 Disclaimer
 
 This app requires root access and modifies system files. Use at your own risk. The developer is not responsible for any damage caused by improper use or misconfiguration.
+
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.TimeZone)
+
